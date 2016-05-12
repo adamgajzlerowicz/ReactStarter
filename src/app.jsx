@@ -18,7 +18,7 @@ var Hello = React.createClass({
                 this.setState({
                     data: json
                 });
-w            }
+            }
         }.bind(this));
     },
 
